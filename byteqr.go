@@ -14,8 +14,8 @@ import (
 )
 
 const (
-	WHITE = "██"
-	BLACK = "  "
+	WHITE = "\033[47m██\033[0m"
+	BLACK = "\033[40m  \033[0m"
 )
 
 // Write encodes text into a QR code and writes it into w.
