@@ -1,3 +1,3 @@
-module github.com/nogoegst/byteqr
+module github.com/nogoegst/textqr
 
-require rsc.io/qr v0.1.0
+require rsc.io/qr v0.2.0
