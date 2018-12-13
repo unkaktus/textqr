@@ -20,7 +20,7 @@ const (
 	L Level = iota // 20% redundant
 	M              // 38% redundant
 	Q              // 55% redundant
-	H              // 65& redundant
+	H              // 65% redundant
 )
 
 var lightBlocks map[string]string = map[string]string{
