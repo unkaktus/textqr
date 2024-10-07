@@ -1,2 +1,4 @@
+github.com/nogoegst/textqr v0.0.0-20181213220145-28c55cae7e92 h1:xGv4rSpbhdHOcQoxsgIcBv1QA+B6qIFS14CRJNUXnNs=
+github.com/nogoegst/textqr v0.0.0-20181213220145-28c55cae7e92/go.mod h1:7pPD2hl1yACSvNYkx+6JUVZwKZ2CbOeRYrZXSk+lUp4=
 rsc.io/qr v0.2.0 h1:6vBLea5/NRMVTz8V66gipeLycZMl/+UlFmk8DvqQ6WY=
 rsc.io/qr v0.2.0/go.mod h1:IF+uZjkb9fqyeF/4tlBoynqmQxUoPfWEKh921coOuXs=
